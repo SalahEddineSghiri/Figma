@@ -75,7 +75,7 @@ h1,h2,h3,h4,h5,h6{
 .infos{     
     height: 500px;
     width: 598px;
-    gap: 54px;
+    gap: 93px;
     display: flex;
     flex-direction: column;
     position: relative;
@@ -118,6 +118,8 @@ h1,h2,h3,h4,h5,h6{
     display: flex;
     flex-direction: row;
     gap: 50px;
+    position: relative;
+    bottom: 3pc;
 }
 .arr{
     object-fit: cover;
